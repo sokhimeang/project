@@ -1,0 +1,6 @@
+D:\project_c\chinh_thuc1\salary\salary\bin\Debug\salary.exe.config
+D:\project_c\chinh_thuc1\salary\salary\bin\Debug\salary.exe
+D:\project_c\chinh_thuc1\salary\salary\bin\Debug\salary.pdb
+D:\project_c\chinh_thuc1\salary\salary\obj\Debug\salary.csprojResolveAssemblyReference.cache
+D:\project_c\chinh_thuc1\salary\salary\obj\Debug\salary.exe
+D:\project_c\chinh_thuc1\salary\salary\obj\Debug\salary.pdb

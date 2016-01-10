@@ -1,0 +1,6 @@
+D:\project_c\PushProject\basic c shard\basic c shard\bin\Debug\basic c shard.exe.config
+D:\project_c\PushProject\basic c shard\basic c shard\obj\Debug\basic c shard.csprojResolveAssemblyReference.cache
+D:\project_c\PushProject\basic c shard\basic c shard\bin\Debug\basic c shard.exe
+D:\project_c\PushProject\basic c shard\basic c shard\bin\Debug\basic c shard.pdb
+D:\project_c\PushProject\basic c shard\basic c shard\obj\Debug\basic c shard.exe
+D:\project_c\PushProject\basic c shard\basic c shard\obj\Debug\basic c shard.pdb

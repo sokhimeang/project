@@ -1,0 +1,9 @@
+D:\project_c\file00\file00\bin\Debug\file00.exe.config
+D:\project_c\file00\file00\bin\Debug\file00.exe
+D:\project_c\file00\file00\bin\Debug\file00.pdb
+D:\project_c\file00\file00\obj\Debug\file00.csprojResolveAssemblyReference.cache
+D:\project_c\file00\file00\obj\Debug\file00.exe
+D:\project_c\file00\file00\obj\Debug\file00.pdb
+D:\project_c\chinh_thuc1\file00\file00\bin\Debug\file00.exe.config
+D:\project_c\chinh_thuc1\file00\file00\obj\Debug\file00.exe
+D:\project_c\chinh_thuc1\file00\file00\obj\Debug\file00.pdb

@@ -1,0 +1,6 @@
+D:\project_c\chinh_thuc1\second convert\second convert\bin\Debug\second convert.exe.config
+D:\project_c\chinh_thuc1\second convert\second convert\bin\Debug\second convert.exe
+D:\project_c\chinh_thuc1\second convert\second convert\bin\Debug\second convert.pdb
+D:\project_c\chinh_thuc1\second convert\second convert\obj\Debug\second convert.csprojResolveAssemblyReference.cache
+D:\project_c\chinh_thuc1\second convert\second convert\obj\Debug\second convert.exe
+D:\project_c\chinh_thuc1\second convert\second convert\obj\Debug\second convert.pdb

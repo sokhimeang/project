@@ -1,0 +1,9 @@
+D:\project_c\PushProject\my_create\dientich\dientich\bin\Debug\dientich.exe.config
+D:\project_c\PushProject\my_create\dientich\dientich\obj\Debug\dientich.csprojResolveAssemblyReference.cache
+D:\project_c\PushProject\my_create\dientich\dientich\bin\Debug\dientich.exe
+D:\project_c\PushProject\my_create\dientich\dientich\bin\Debug\dientich.pdb
+D:\project_c\PushProject\my_create\dientich\dientich\obj\Debug\dientich.exe
+D:\project_c\PushProject\my_create\dientich\dientich\obj\Debug\dientich.pdb
+D:\project_c\chinh_thuc1\dientich\dientich\bin\Debug\dientich.exe.config
+D:\project_c\chinh_thuc1\dientich\dientich\obj\Debug\dientich.exe
+D:\project_c\chinh_thuc1\dientich\dientich\obj\Debug\dientich.pdb
